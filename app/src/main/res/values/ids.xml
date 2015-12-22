@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="row1LinearLayout" type="id" />
+    <item name="row2LinearLayout" type="id" />
+    <item name="row3LinearLayout" type="id" />
+</resources>
